@@ -1,6 +1,5 @@
 # Hi, welcome to my profile 👋
 
-### https://imgok.github.io/GokApp for curious people 👀
 <!--
 **imGok/imGok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
