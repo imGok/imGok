@@ -1,3 +1,3 @@
 # I have no idea what I'm doing here...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgok&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgok&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
